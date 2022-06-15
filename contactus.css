@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+}
+.input-width{
+    width: 50vw;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+.center-submit{
+    text-align: center;
+    margin-top: 10px;
+}
+.button-margin {
+    margin-right: 5px;
+   }
+.message-margin{
+    margin-bottom: 10px;
+}

@@ -1,0 +1,12 @@
+.center-services{
+    text-align: center;
+}
+.text-color{
+    color: black;
+    font-weight: 500;
+    font-style: bold;
+    background-color: yellow;
+}
+.dailies-height{
+    height: 100vh;
+}
